@@ -1,0 +1,21 @@
+problem: OP-03
+handle: yuvraajnaruka
+repo: https://github.com/yuvraajnarula/Deployment.inc-Hiring-Problems
+commit: <YOUR_EXACT_40_CHAR_SHA>
+repo_visibility: private
+leaderboard: false
+season: 1
+pins_ack: true
+models_ack: true
+claimed:
+  cost_per_resolved_case: 0.0011
+  success_rate: 0.958
+  deferral_rate: 0.41
+  elective_deferral_rate: 0.08
+  latency_p95_s: 8.5
+  pareto_points: 8
+spend:
+  results_usd: 18.50
+  compute_usd: 0
+  development_usd: 12.00
+hardware: "CPU laptop; no GPU"
